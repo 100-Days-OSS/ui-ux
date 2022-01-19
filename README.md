@@ -45,6 +45,6 @@ If you are not familiar with the tools listed here. Do well to check the resourc
 
 
 # Contribution
-Read through [contributing guidelines]() to get started. 
+Read through [contributing guidelines](https://github.com/100-Days-OSS/ui-ux/blob/main/contribution_guidelines.md) to get started. 
 
 Join our conversations here on [slack](https://100dayschallenge2022.slack.com/archives/C02SX2G7XQ9)
