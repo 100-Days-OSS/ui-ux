@@ -2,7 +2,7 @@
 1. Description
 2. Tools
 3. Resources
-4. Contribution
+4. How to contribute
 
 
 # Descriptionn
@@ -22,7 +22,7 @@ If you are not familiar with the tools listed here. Do well to check the resourc
 : The main whiteboarding tool for this prroject. 
 
 4. [Notion](https://www.notion.so)
-: The main project management tool for this prroject. 
+: The main project management tool for the entire OSS prroject. 
 
 
 
@@ -44,7 +44,7 @@ If you are not familiar with the tools listed here. Do well to check the resourc
 
 
 
-# Contribution
+# How to contribute
 Read through [contributing guidelines](https://github.com/100-Days-OSS/ui-ux/blob/main/contribution_guidelines.md) to get started. 
 
 Join our conversations here on [slack](https://100dayschallenge2022.slack.com/archives/C02SX2G7XQ9)
